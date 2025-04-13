@@ -10,3 +10,7 @@ The app also includes a Favorites list, where users can save meals they like for
 The app is built using Object-Oriented Programming (OOP) principles to manage meal data and user interactions efficiently.
 
 ![EnjoyMeaal APP](./mealsitepreviewfoto.png)
+![EnjoyFoodImage1](./image1.png)
+![EnjoyFoodImage2](./image2.png)
+![EnjoyFoodImage3](./image3.png)
+![EnjoyFoodImage4](./image4.png)
